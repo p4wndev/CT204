@@ -4,3 +4,4 @@ Pillow
 pycryptodomex
 matplotlib
 seaborn
+cryptography
