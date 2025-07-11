@@ -7,3 +7,4 @@ seaborn
 cryptography
 pycrypto
 pycryptodome
+plotly
